@@ -70,7 +70,13 @@ The design was tested using a Verilog testbench and verified through waveform ob
 * Programmable divider with runtime control
 * Duty cycle correction
 * FPGA implementation (Quartus)
-* Multi-frequency output generation#
+* Multi-frequency output generation
+
+How to use : 
+-Open Intel Quartus Prime lite 
+-New project
+-Synthesize for Netlist and Run RTL simulation for Waveforms 
+---
 
 
 ## Author 
@@ -78,7 +84,4 @@ Mithilesh Subramani
 
 
 
-How to use : 
--Open Intel Quartus Prime lite 
--New project
--Synthesize for Netlist and Run RTL simulation for Waveforms 
+
